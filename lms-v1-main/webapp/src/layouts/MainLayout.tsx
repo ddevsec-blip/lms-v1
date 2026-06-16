@@ -1,5 +1,5 @@
 import React from "react";
-import logoSrc from "../assets/logo.png";
+import logoSrc from "../assets/ci.jpg";
 import { Link, useLocation, useRouter } from "@tanstack/react-location";
 import TopBarLoader from "../components/TopBarLoader";
 import { FaExternalLinkAlt } from "react-icons/fa";
